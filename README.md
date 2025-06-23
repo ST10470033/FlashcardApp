@@ -1,2 +1,2 @@
-# FlashcardApp
+# HistoryFactApp
 Assignment 2
